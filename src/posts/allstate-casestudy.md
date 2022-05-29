@@ -1,6 +1,6 @@
 ---
 title: Allstate Claims Severity - How severe is an insurance claim?
-slug: "/blog/pix2pix-mnist"
+slug: "/blog/allstate-casestudy"
 date: "2022-05-29"
 description: Allstate Claims Severity - How severe is an insurance claim?
 ---
