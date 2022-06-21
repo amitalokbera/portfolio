@@ -60,6 +60,9 @@ const Header = () => {
                             <Link href="/uses">
                               <a className="px-3 py-2 rounded-md font-medium">Uses</a>
                             </Link>
+                            <Link href="https://drive.google.com/file/d/1QZG5VpdjAUKR_e4YKFTU_oBg1fR_zF3u/view?usp=sharing">
+                              <a className="px-3 py-2 rounded-md font-medium">Resume</a>
+                            </Link>
                         </div>
                       </div>
                     </div>
