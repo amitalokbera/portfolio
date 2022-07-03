@@ -32,10 +32,10 @@ const Uses = () => {
                   <ul className="list-disc ml-5 mb-8">
                       <li>Desktop Setup</li>
                         <ul>
-                          <li>CPU - i7-7700K @4.8GHz</li>
-                          <li>Motherboard - MSI Z270 Gaming Plus</li>
-                          <li>RAM - 16GB</li>
-                          <li>GPU - GTX 1050Ti</li>
+                          <li>CPU - i7-12700F</li>
+                          <li>Motherboard - Gigabyte B660</li>
+                          <li>RAM - 32GB</li>
+                          <li>GPU - RTX 3060</li>
                           <li>SSD - 512GB</li>
                         </ul>
                       <li>Laptop Setup</li>
