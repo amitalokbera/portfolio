@@ -87,6 +87,9 @@ const Header = () => {
                     <Link href="/uses">
                       <a className="block px-3 py-2 rounded-md text-base font-medium">Uses</a>
                     </Link>
+                    <Link href="https://drive.google.com/file/d/1QZG5VpdjAUKR_e4YKFTU_oBg1fR_zF3u/view?usp=sharing">
+                      <a className="block px-3 py-2 rounded-md text-base font-medium">Resume</a>
+                    </Link>
                 </div>
             </div>
         </nav>

@@ -24,8 +24,6 @@ const Uses = () => {
                       <li>Jupyter Lab</li>
                       <li>Colab</li>
                       <li>Docker</li>
-                      <li>Microsoft Excel</li>
-                      <li>Google Chrome</li>
                   </ul>
 
                   <Heading level={3}>Office Setup</Heading>
@@ -34,7 +32,7 @@ const Uses = () => {
                         <ul>
                           <li>CPU - i7-12700F</li>
                           <li>Motherboard - Gigabyte B660</li>
-                          <li>RAM - 32GB</li>
+                          <li>RAM - 32GB 3200MHz</li>
                           <li>GPU - RTX 3060</li>
                           <li>SSD - 512GB</li>
                         </ul>
@@ -42,9 +40,9 @@ const Uses = () => {
                         <ul>
                           <li>MSI Modern 14 - Ryzen 5 4500U</li>
                         </ul>
-                      <li>BenQ 24inch GW2280 - Primary Monitor</li>
-                      <li>Samsung 24inch S22F350 - Secondary Monitor</li>
-                      <li>RedGear Mechanical Keybaord</li>
+                      <li>Dell 27inch S2721DGF - Primary Monitor</li>
+                      <li>BenQ 24inch GW2280 - Secondary Monitor</li>
+                      <li>Royal Kludge RK71 - Gateron Yellow Switches</li>
                       <li>Logitech G402 Mouse</li>
                       <li>Oneplus Earbuds</li>
                       <li>Mi 720p Webcam</li>
