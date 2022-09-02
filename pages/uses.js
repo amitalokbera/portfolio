@@ -26,7 +26,7 @@ const Uses = () => {
                       <li>Docker</li>
                   </ul>
 
-                  <Heading level={3}>Office Setup</Heading>
+                  <Heading level={3}>Setup</Heading>
                   <ul className="list-disc ml-5 mb-8">
                       <li>Desktop Setup</li>
                         <ul>
