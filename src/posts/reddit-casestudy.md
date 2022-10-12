@@ -670,11 +670,7 @@ Thank you for reading! 😄 And if you liked this blog, please hit the clap icon
 
 If you connect with me, here are some of the platforms you can follow me —
 
-[](https://www.linkedin.com/in/amit-bera-1a7b541b1/)
-
-## Amit Bera — Machine Learning Intern — AdvaRisk | LinkedIn
-
-### View Amit Bera’s profile on LinkedIn, the world’s largest professional community. Amit has 2 jobs listed on their…
+[](https://www.linkedin.com/in/amitalokbera/)
 
 www.linkedin.com
 
