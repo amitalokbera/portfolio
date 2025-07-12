@@ -27,7 +27,7 @@ The three pillars of IAM are:
 To make this clearer, the diagram below breaks down AWS IAM into two core concepts: Identities and Permissions. Identities represent who is making the request—such as users, groups, roles, or credentials. Permissions represent what those identities are allowed to do, and are managed through policies made up of permission statements.
 This visual structure helps illustrate that IAM policies can be attached to both users and groups, and users can inherit permissions via group membership. Roles, on the other hand, enable temporary access for trusted entities or services.
 
-![IAM Users, Groups, and Policies](/public/blogs-content/iam.png)
+![IAM Users, Groups, and Policies](./iam.png)
 
 ---
 
