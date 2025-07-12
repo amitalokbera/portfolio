@@ -28,6 +28,7 @@ To make this clearer, the diagram below breaks down AWS IAM into two core concep
 This visual structure helps illustrate that IAM policies can be attached to both users and groups, and users can inherit permissions via group membership. Roles, on the other hand, enable temporary access for trusted entities or services.
 
 ![IAM Users, Groups, and Policies](./iam.png)
+<sub>Credits: [K12Academy](https://k21academy.com)</sub>
 
 ---
 
