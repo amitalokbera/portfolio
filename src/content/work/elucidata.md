@@ -1,6 +1,6 @@
 ---
 company: "Elucidata"
-role: "Data Analyst / Software Engineer"
+role: "SDE - I"
 dateStart: "10/10/2022"
 dateEnd: "08/22/2024"
 ---
